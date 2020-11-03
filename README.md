@@ -24,7 +24,7 @@ More detailed comments can be found in the code. Here are some general descripti
 
 * `utils`: Contains the code for loss functions and metrics for quantitative results.
 
-* `custom_dataset.py`: Loads the dataset. One should modify this file to create a customized dataset for their own problems.
+* `custom_dataset.py`: Loads the dataset. Note that the data in the paper is not publicly available. **One should modify this file to create a customized dataset for their own problems.**
 
 * `train.py`: Train the SVAE.
 
